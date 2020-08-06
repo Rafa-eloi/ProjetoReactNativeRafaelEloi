@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "appTesteRafaelEloi",
+    "slug": "appTeste",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/splash1.png",
+    "android": {
+      "package": "com.yourcompany.yourappname",
+      "versionCode": 1
+    },
+    "splash": {
+      "image": "./assets/splash1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}
